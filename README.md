@@ -24,7 +24,7 @@ Ubuntu/Debian sistemlerde memory leak, cache buildup, session birikimi ve genel 
 
 ```bash
 # Scripti indir
-curl -O https://raw.githubusercontent.com/USERNAME/memory-monitor/main/memory_monitor.sh
+curl -O https://raw.githubusercontent.com/orkun-soylu/memory-monitor/main/memory_monitor.sh
 
 # Çalıştırılabilir yap
 chmod +x memory_monitor.sh
